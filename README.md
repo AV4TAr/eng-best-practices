@@ -1,16 +1,24 @@
 # eng-best-practices
-
-
+ * Readability
+ * Simplification and Specialization
+ * Decoupling
+ * Avoiding Code Bloat
+ * Mantain quality through testability
+## List
  * Patterns
    * Dependency Injection
    * Delegation
    * Service Locator
+   * Inversion of Control
  * Dependency Inversion Principle.
  * Namespacing
- * Global Access
+ * Global State
  * Code Style & Documentation
  * Deployment
- * 
+ * CI
+ * Tell, don't ask
+ * S.O.L.I.D.
+ * Y.A.G.N.I.
  
 # Books
 
