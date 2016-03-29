@@ -4,4 +4,3 @@
  
 ## Libraries
   * [flysystem](http://flysystem.thephpleague.com/)
-  *
