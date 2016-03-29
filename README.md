@@ -4,6 +4,8 @@
  * Decoupling
  * Avoiding Code Bloat
  * Mantain quality through testability
+
+ 
 ## List
  * Patterns
    * Dependency Injection
@@ -19,6 +21,7 @@
  * Tell, don't ask
  * S.O.L.I.D.
  * Y.A.G.N.I.
+ * Monitoring
  
 # Books
 
