@@ -25,6 +25,7 @@
  
 # Books
 
+  * [Refactoring](http://www.amazon.com/gp/product/0201485672?ie=UTF8&tag=martinfowlerc-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0201485672)
   * [Clean Code](http://www.amazon.de/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
   * [Patterns of Enterprise Application Architecture](http://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)
   * [The Pragmatic Programmer] (http://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420) 
