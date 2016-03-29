@@ -32,4 +32,4 @@
 
 # Refs
   * http://www.slideshare.net/theojungeblut/2013-106-clean-code-part-i-design-patterns
-  * 
+  * [Martin Fowler](http://martinfowler.com/)
